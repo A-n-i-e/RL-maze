@@ -1,8 +1,12 @@
 # 🚀 Episode 1 of Steph's Coding Adventures with Claude
 
-## 🧩 Maze Runner
+## Maze Runner
 
 **Maze Runner** is a small reinforcement learning game where a robot agent learns to navigate a maze built by the player using **Q-learning**.
+
+🎮 [Play Maze Runner!](https://a-n-i-e.github.io/RL-maze/)
+
+Designed using **Canva** and learned to build it using **Claude AI**
 
 ### 🎮 How to Play
 
